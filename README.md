@@ -2,7 +2,6 @@
 
 - 🔭  Aplico os meus conhecimentos ao Front-end 
 - 🌱 Estudando Node.js
-- 😄 Pronouns: Ele/dele
 
 <div>
   <a href="https://github.com/Dhonatanmir">
